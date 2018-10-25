@@ -1,2 +1,3 @@
 # python-test
-Test for RedCarpet's shortlisting interview
+Code for RedCarpet's intern application assignment: https://pastebin.com/QDbSQPZg
+Coded by: Asrar Ul Haq Nehvi
